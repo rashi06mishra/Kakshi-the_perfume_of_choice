@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const mongoDB = "mongodb+srv://rashi06mishra:gutru360degree@databasekakshi.cw1bmab.mongodb.net/";
+const mongoDB = "";
 
 const connectDatabase = async() => {
     try{
