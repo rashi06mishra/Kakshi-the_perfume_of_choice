@@ -1,12 +1,13 @@
-import {headerLogo} from '../assets/images'
+import {logo} from '../assets/images'
 
 const Nav = () => {
   return (
     <header className="padding-x py-8 z-10 w-full sticky top-0 bg-yellow-100">
-        <nav>
+        <nav className='flex justify-between items-center'>
             <a href="/">
-                <img src={headerLogo}
-                alt="Logo"
+                <img 
+                src={logo} 
+                alt="kakshi-logo"
                 width={29}
                 height={29} />
             </a>
