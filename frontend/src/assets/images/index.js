@@ -1,5 +1,6 @@
 import logo from './logo.jpg'
 import brandLogo from './brandLogo.png'
+import footerLogo from './footerLogo.jpeg'
 
 import exhibition from './exhibition.jpeg'
 import exhibition1 from './exhibition1.jpeg'
@@ -26,6 +27,7 @@ import style3 from './style3.jpg'
 export {
     logo,
     brandLogo,
+    footerLogo,
     
     exhibition,
     exhibition1,

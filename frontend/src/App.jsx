@@ -11,7 +11,7 @@ export default function App() {
   return (
     <main className="relative bg-slate-200">
       <Nav />
-      <section className="xl:padding-l wide:padding-r padding-b ">
+      <section className="xl:padding-l wide:padding-r  ">
         <Hero/>
       </section>
       <section className="padding">

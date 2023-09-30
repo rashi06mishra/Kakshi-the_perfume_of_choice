@@ -37,17 +37,17 @@ export const products = [
     },
     {
         imgURL: perfume2,
-        name: "Nike Air Jordan-01",
+        name: "Nike Air Jordan-02",
         price: "$200.20",
     },
     {
         imgURL: perfume3,
-        name: "Nike Air Jordan-01",
+        name: "Nike Air Jordan-03",
         price: "$200.20",
     },
     {
         imgURL: perfume4,
-        name: "Nike Air Jordan-01",
+        name: "Nike Air Jordan-04",
         price: "$200.20",
     },
     {
@@ -67,22 +67,22 @@ export const products = [
     },
     {
         imgURL: perfume8,
-        name: "Nike Air Jordan-001",
+        name: "Nike Air Jordan-011",
         price: "$230.20",
     },
     {
         imgURL: perfume9,
-        name: "Nike Air Jordan-01",
+        name: "Nike Air Jordan-21",
         price: "$200.20",
     },
     {
         imgURL: perfume10,
-        name: "Nike Air Jordan-01",
+        name: "Nike Air Jordan-22",
         price: "$200.20",
     },
     {
         imgURL: perfume11,
-        name: "Nike Air Jordan-01",
+        name: "Nike Air Jordan-23",
         price: "$200.20",
     },
 ];
@@ -107,17 +107,47 @@ export const services = [
 
 export const reviews = [
     {
-        imgURL: customer1,
-        customerName: 'Morich Brown',
-        rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        // imgURL: customer1,
+        customerName: 'Ayesha Desai',
+        // rating: 4.5,
+        feedback: "Kakshie White Oude perfume is a symphony of floral notes, wrapping me in an ethereal embrace. It's like carrying a garden with me, and the longevity is impressive"
     },
     {
-        imgURL: customer2,
-        customerName: 'Lota Mongeskar',
-        rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
-    }
+        // imgURL: customer2,
+        customerName: 'Aditya Joshi',
+        // rating: 4.5,
+        feedback: "I've found my signature scent! The blend of fruity and woody undertones of Kakshie Chandan is captivating. Lasts all day without being overpowering. Pure perfection in a bottle!"
+    },
+    {
+        // imgURL: customer2,
+        customerName: 'Kavya Reddy',
+        // rating: 4.5,
+        feedback: "Unexpectedly fell in love with this fragrance. It's subtle yet unforgettable. Each note unfolds like a story, and the dry-down is warm and comforting. Highly recommend!"
+    },
+    {
+        // imgURL: customer2,
+        customerName: 'Arjun Singhania',
+        // rating: 4.5,
+        feedback: "A fragrance that's as mysterious as it is alluring. The complexity of notes keeps me intrigued, and the bottle design is a work of art. Worth every penny."
+    },
+    {
+        // imgURL: customer2,
+        customerName: 'Nandita Patel',
+        // rating: 4.5,
+        feedback: "This perfume is my secret weapon for confidence. The citrusy top notes are invigorating, and the base notes are sensual. It's a mood in a bottle—absolutely divine!"
+    },
+    {
+        // imgURL: customer2,
+        customerName: 'Diya',
+        // rating: 4.5,
+        feedback: "I've never received so many compliments! The scent evolves beautifully, and it's versatile for any occasion. A little goes a long way, making it a great investment"
+    },
+    {
+        // imgURL: customer2,
+        customerName: 'Aarav',
+        // rating: 4.5,
+        feedback: "The fragrance is like a breath of fresh air. It's light, airy, and effortlessly elegant. I feel rejuvenated every time I wear it. A daily essential in my beauty routine!"
+    },
 ];
 
 
@@ -125,12 +155,12 @@ export const footerLinks = [
     {
         title: "Products",
         links: [
-            { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
-            { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
+            { name: "White oude", link: "/" },
+            { name: "JB", link: "/" },
+            { name: "Vibes", link: "/" },
+            { name: "Blue Water", link: "/" },
+            { name: "Brute Musk", link: "/" },
+            { name: "Chandan", link: "/" },
         ],
     },
     {
@@ -146,8 +176,8 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "kakshie.perfume@gmail.com", link: "mailto:kakshie.perfume@gmail.com" },
+            { name: "+918482977257", link: "tel:+918482977257" },
         ],
     },
 ];

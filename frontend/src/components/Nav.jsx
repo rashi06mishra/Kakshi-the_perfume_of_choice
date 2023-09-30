@@ -10,7 +10,7 @@ const Nav = () => {
 
 
   return (
-    <header className="padding-x py-3  z-10 w-full sticky top-0 shadow-md bg-black shadow-stone-500">
+    <header className="padding-x py-3  z-20 w-full sticky top-0 shadow-md bg-black shadow-stone-500">
         <nav className='flex justify-between items-center max-container text-yellow-600'>
           {/* logo */}
             <a href="/"
